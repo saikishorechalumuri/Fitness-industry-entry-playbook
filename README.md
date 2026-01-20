@@ -158,14 +158,17 @@ Use this answer format every time:
 ---
 
 # MODULE 5 — Interview Tips (MSR / Front Desk)
-- Speak in **systems**, not feelings
-- Show you understand **retention + service recovery**
-- Use: **“I document and close loops.”**
-- Use: **“I don’t bring problems, I bring solutions.”**
-- Mention calm under pressure: rush hour, complaints, phone, check-ins
 
-Best final line:
-> “I’m here to protect the member experience and protect club standards — with professionalism, speed, and clear communication.”
+- Speak in **systems**, not stories (show your process).
+- Prove you understand **retention + service recovery** (members stay because issues get handled well).
+- Use: **“I document everything and close the loop.”**
+- Use: **“I don’t just bring problems — I bring 2–3 solutions.”**
+- Highlight calm under pressure: rush hour check-ins, phone ringing, complaints, and multitasking.
+- Show ownership: **“I treat the club standards like my responsibility.”**
+
+**Best final line (use in every interview):**  
+> “My goal is simple: protect the member experience, protect club standards, and communicate clearly — fast, calm, and professional.”
+
 
 ---
 
@@ -184,8 +187,9 @@ Best final line:
 ---
 
 ## Closing
-If you want a clear **training plan + interview prep**, DM me or email me:
 
-📩 **chalumurisaikishore1998@gmail.com**
+
+
 
 ✅ If you used this playbook and got a job — **comment and tell me how it went.**
+📩 **chalumurisaikishore1998@gmail.com**
